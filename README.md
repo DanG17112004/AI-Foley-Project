@@ -37,3 +37,20 @@ Completed:
 - Audio generation models
 
 ## Project Structure
+AI-Foley-Project
+
+├── frontend
+├── backend
+├── models
+├── research
+├── papers
+└── notes
+
+
+## Development Team
+
+Developer:
+Allen Saju, Dan, HariGovind, Vishnu
+
+AI Support:
+ChatGPT + Claude
