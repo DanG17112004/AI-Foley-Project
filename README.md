@@ -38,13 +38,15 @@ Completed:
 
 ## Project Structure
 AI-Foley-Project
-
+```text
+.
 ├── frontend
 ├── backend
 ├── models
 ├── research
 ├── papers
 └── notes
+```
 
 
 ## Development Team
